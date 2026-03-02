@@ -27,7 +27,7 @@ This project combines computer vision, deep learning, and a graphical user inter
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -36,22 +36,13 @@ This project combines computer vision, deep learning, and a graphical user inter
 - pyttsx3
 - Pillow
 - NumPy
-- 
-## Project Structure
 
-emotion-detection/
-│
-├── emotion_app.py
-├── requirements.txt
-└── README.md
-
----
 
 ##  Installation
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/emotion-detection.git  
+git clone (https://github.com/devendra110305/emotion-detection-system.git)  
 cd emotion-detection
 
 ### 2. Install dependencies
