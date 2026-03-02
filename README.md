@@ -107,7 +107,7 @@ Slow performance
 2. Create a new branch
 3. Commit changes
 4. Open a pull request
-5. 
+
 ## License
 
 This project is open-source and available for educational and research purposes.
@@ -115,7 +115,11 @@ This project is open-source and available for educational and research purposes.
 ##  Author
 
 Mahalinga Devendra Kumar
+
+
 Sri Mittapalli College of Engineering
+
+
 2026
 
 ## Support
